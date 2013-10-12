@@ -1,8 +1,0 @@
-name: MCWands
-version: Beta 1.0
-main: de.Sn0wBlizz4rd.MCWands.Main
-author: Sn0wBlizz4rd
-commands:
-     wand:
-          usage: /<command>
-          description: Wand.
